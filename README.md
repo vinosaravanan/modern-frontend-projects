@@ -134,24 +134,24 @@ modern-frontend-projects/
 ```
 # 📚 Projects
 
-| Project            | Technologies         | Features                      |
-| ------------------ | -------------------- | ----------------------------- |
-| E-commerce Store   | React, Redux Toolkit | Authentication, Cart, Filters |
-| Admin Dashboard    | React, Charts        | Analytics, Responsive UI      |
-| Social Media UI    | React                | Posts, Comments, Profile      |
-| Task Management    | React                | CRUD, Drag & Drop             |
-| Movie Search       | React, Fetch API     | Search, Pagination            |
-| GitHub User Search | React                | GitHub API Integration        |
-| Weather Dashboard  | React                | Live Weather API              |
-| Expense Tracker    | React                | Charts, Local Storage         |
-| Chat UI            | React                | Real-time Interface           |
-| Recipe Finder      | React                | API Integration               |
-| Blog Platform      | React                | Authentication, CRUD          |
-| Resume Builder     | React                | Dynamic Resume Generation     |
-| AI Chat Interface  | React                | Chat UI Design                |
-| Music Player       | React                | Audio Controls                |
-| Crypto Dashboard   | React                | Live Market Data              |
-| Portfolio Website  | React                | Responsive Portfolio          |
+| Project            | Technologies         | Features                                     
+| ------------------ | -------------------- | -----------------------------          
+| E-commerce Store   | React, Redux Toolkit | Authentication, Cart, Filters                
+| Admin Dashboard    | React, Charts        | Analytics, Responsive UI                     
+| Social Media UI    | React                | Posts, Comments, Profile                     
+| Task Management    | React                | CRUD, Drag & Drop                                
+| Movie Search       | React, Fetch API     | Search, Pagination                           
+| GitHub User Search | React                | GitHub API Integration| GitHub API Integration
+| Weather Dashboard  | React                | Live Weather API                                      
+| Expense Tracker    | React                | Charts, Local Storage         
+| Chat UI            | React                | Real-time Interface           
+| Recipe Finder      | React                | API Integration               
+| Blog Platform      | React                | Authentication, CRUD          
+| Resume Builder     | React                | Dynamic Resume Generation     
+| AI Chat Interface  | React                | Chat UI Design                
+| Music Player       | React                | Audio Controls                
+| Crypto Dashboard   | React                | Live Market Data              
+| Portfolio Website  | React                | Responsive Portfolio          
 
 ---
 
