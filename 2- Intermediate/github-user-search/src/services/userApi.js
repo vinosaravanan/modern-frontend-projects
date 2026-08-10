@@ -9,3 +9,5 @@ export const UserApi = createApi({
        })
     })
 })
+
+export const {useLazySearchUsersQuery} = UserApi;
