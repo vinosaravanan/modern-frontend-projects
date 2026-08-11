@@ -61,3 +61,22 @@ src/
 │   └── UserDirectory.jsx       # Smart page container connecting Redux to UI
 ├── App.jsx                     # Main application layout
 └── main.jsx                    # Root render with Redux Provider wrapper
+
+Installation
+Clone the repository:
+
+Bash
+git clone [https://github.com/your-username/github-user-search.git](https://github.com/your-username/github-user-search.git)
+cd github-user-search
+Install dependencies:
+
+Bash
+npm install
+Install Redux Toolkit & React Redux (if setting up manually):
+
+Bash
+npm install @reduxjs/toolkit react-redux
+Start the development server:
+
+Bash
+npm run dev
