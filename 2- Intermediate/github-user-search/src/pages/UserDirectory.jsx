@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useLazySearchUsersQuery } from "../services/userApi";
-import SearchForm from '../Components/SearchForm'
+import SearchForm from '../Components/SearchForm';
 
 function UserDirectory() {
   const [lastSearch, SetlastSearch] = useState(); 
@@ -11,8 +11,8 @@ function UserDirectory() {
        SetlastSearch(searchTerm);
        triggerSearch(searchTerm)
     }
-    const users = data?.users || []
-    console.log(data)
+    const users = data || []
+    console.log(users)
 
   return (
     <div className="max-w-4xl py-10 px-4">
