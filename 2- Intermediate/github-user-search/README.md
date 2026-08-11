@@ -62,21 +62,32 @@ src/
 ├── App.jsx                     # Main application layout
 └── main.jsx                    # Root render with Redux Provider wrapper
 
-Installation
-Clone the repository:
 
-Bash
-git clone [https://github.com/your-username/github-user-search.git](https://github.com/your-username/github-user-search.git)
-cd github-user-search
-Install dependencies:
+## 💻 Getting Started
 
-Bash
-npm install
-Install Redux Toolkit & React Redux (if setting up manually):
+### Prerequisites
 
-Bash
-npm install @reduxjs/toolkit react-redux
-Start the development server:
+Ensure you have **Node.js** (v16+ recommended) and **npm** installed on your machine.
 
-Bash
-npm run dev
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/github-user-search.git](https://github.com/your-username/github-user-search.git)
+   cd github-user-search
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Install Redux Toolkit & React Redux (if setting up manually):**
+   ```bash
+   npm install @reduxjs/toolkit react-redux
+   ```
+
+4. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
